@@ -1,0 +1,7 @@
+.item:hover {
+  cursor: grab;
+}
+
+#map > .item {
+  position: absolute;
+}
